@@ -1,4 +1,7 @@
 # PROJE SONUÇ VE ÇIKTILARIM :
+## Proje Posterim :
+![Bir başlık ekleyin (1)](https://github.com/MUTLU234/T-rkiye-ller-Baz-nda-Ki-i-Ba-Elektrik-T-ketimi-kWh-/assets/114806893/9d043d83-f990-4f28-a10a-b3061a90daf1)
+
 ## Python Çıktıları :
 ### Buradaki haritalar da yıllar bazında kıyaslama yapılabilecek bir yapıya sahiptir. Haritanin istenen kısmı yakınlaştırılabilir, kırpılabilir uzaklaştırılabilir gibi özellikler eklenerek dinamik bir harita Python Matplotlib.pyplot kütüphanesiyle çizilmiştir. Aynı zamanda Tüik'te 2021 sonrası veriler bulunmamaktadır ve sonrasındaki 2022 haritası çeşitli analiz ve tahminlerle yine proje kapsamında oluşturulan önceki seneler baz alınarak çizilmiştir ve renklendirilmiştir. Projenin asıl amacı da daha sonraki yılları bu şekilde tahmin edip öngörülerde bulunulmasını sağlamaktır.
 # 2020 Yılı
